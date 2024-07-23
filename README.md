@@ -1,1 +1,3 @@
 # Colour-Detection-Using-OpenCV-NumPy-and-Pandas
+
+This Python project demonstrates a color detection algorithm using OpenCV, NumPy, and Pandas libraries. The script allows users to identify and display the color of pixels in an image by clicking on them, utilizing a pre-defined CSV file of color names and their RGB values. The program then matches the clicked color to the nearest color in the CSV, displaying both the color name and RGB values on the image. Additionally, it includes functionality for decoding secret messages encoded in pixel colors, which could represent important data such as coordinates or passwords.
